@@ -1,0 +1,19 @@
+In the backend don't forget to create config.env file.
+
+**Needed variables in config.env file**
+
+PORT
+DB_URL
+JWT_SECRET
+JWT_EXPIRE
+COOKIE_EXPIRE
+SMPT_SERVICE
+SMPT_EMAIL
+SMPT_PASSWORD
+SMPT_HOST
+SMPT_PORT
+CLOUDINARY_NAME
+CLOUDINARY_API_KEY
+CLOUDINARY_API_SECRET
+
+
